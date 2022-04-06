@@ -4,6 +4,9 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+#Ingnorando todos los node_modules en cualquier directorio
+**/node_modules/*
+
 # Other files and folders
 .settings/
 
