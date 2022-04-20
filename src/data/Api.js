@@ -13,6 +13,5 @@ const getDataByUrl = async (urlAConsultar) => {
 
 module.exports = {
   url,
-  getData, 
   getDataByUrl
 }
